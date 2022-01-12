@@ -1,4 +1,4 @@
-### MT-FilesStoreBot 
+### FilesStoreBot 
 
   </a>
 </p>
@@ -106,7 +106,7 @@ banned_users - Get All Banned Users
 [![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/mrk_yt)
 [![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/mo_Tech_yt)
 
-Join Our [Telegram Group](https://www.telegram.dog/Mo_Tech_Group) For Support/Assistance And Our [Channel](https://www.telegram.dog/Mo_Tech_YT) For Updates.   
+Join Our [Telegram Group](https://t.me/TeamPadamPakalamVaanga) For Support/Assistance And Our [Channel]( https://t.me/Join_PadamPakalamVaanga) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 Do Fork And Star The Repository If You Liked It.
