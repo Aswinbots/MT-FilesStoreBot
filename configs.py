@@ -1,4 +1,4 @@
-# (c) @MRK_YT
+# (c) @TeamPadamPakalamVaanga
 
 import os
 
@@ -20,7 +20,7 @@ class Config(object):
 	OTHER_USERS_CAN_SAVE_FILE = bool(os.environ.get("OTHER_USERS_CAN_SAVE_FILE", True))
 	ABOUT_BOT_TEXT = f"""
 This is Permanent Files Store Bot!
-Send me any file I will save it in my Database. Also works for channel. Add me to channel as Admin with Edit Permission, I will add Save Uploaded File in Channel & add Sharable Button Link.
+Send me any file I will save it in my Database. I will add Save Uploaded File in Channel & add Sharable Button Link.
 
 🤖 **My Name:** [Files Store Bot](https://t.me/{BOT_USERNAME})
 
@@ -32,26 +32,14 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍ **Developer:** @AbirHasan2005
 
-👨‍💻 **Editing:** @Mrk_YT
-
-📺 **Support:** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-🗣️ **Any Doubt:** @Mo_Tech_Group
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/Join_PadamPakalamVaanga)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍ **Developer:** @AbirHasan2005
 
 💻 **Developer Details:** [Clcik Here](https://github.com/MoTechYT/MT-FilesStoreBot/blob/main/README.md)
 
-👨‍💻 **Editing:** @Mrk_YT
-
-🗣️ **Any Doubt:** @Mo_Tech_Group
-
-📺 **Support :** [YouTube Channel](https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ)
-
-📢 **Updates Channel:** [Discovery Projects](https://t.me/Mo_Tech_YT)
+📢 **Updates Channel:** [Discovery Projects](https://t.me/Join_PadamPakalamVaanga)
 
 Donate Now (coming soon)
 """
