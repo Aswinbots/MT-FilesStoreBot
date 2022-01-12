@@ -72,12 +72,6 @@ banned_users - Get All Banned Users
 <details><summary>Demo BoTs</summary>
 <p>
 <pre>
-### Demo Bot:
-MRK -YT :- <a href="https://t.me/MT_FilesStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
-AbirHasan2005 :- <a href="https://t.me/SuperFilesStoreBot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
-</pre>
-</p>
-</details>
 
 <details><summary>Credits</summary>
 <p>
@@ -94,41 +88,16 @@ AbirHasan2005 :- <a href="https://t.me/SuperFilesStoreBot"><img src="https://img
                                                                                                              
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/AbirHasan2005/PyroFilesStoreBot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/AbirHasan2005)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/AbirHasan2005)
-[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/AbirHasan2005)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://t.me/TeamPadamPakalamVaanga)
+[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://t.me/+X0kFDJUAgiU1ODc9)
 
-### Skills 
-* **Language:** [Python3](https://www.python.org)
-* **Library:** [Pyrogram](https://docs.pyrogram.org)
-
-### Follow on:
-<p align="left">
-<a href="https://github.com/AbirHasan2005"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://facebook.com/AbirHasan2005"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/AbirHasan2005"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
-</p>
-</pre>
-</p>
-</details>
 
 <details><summary>My Details 👤:</summary>
 <p>
 <pre>
 <p align="middle">
-<img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="100" height="100"><br>
-<img src="https://badgen.net/badge/Name/Mrk YT/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://badgen.net/badge/Name/Aswin/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/MRK_yt"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
-<a href="https://github.com/MRK-YT"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
-<a href="https://Instagram.com/mrk_yt_"><img src="https://badgen.net/badge/Follow%20on%20/Instagram/80FF00?icon=Instagram&labelColor=black"></a>
 <p align="left">
 </p>                                                           
                                                     
