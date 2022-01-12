@@ -8,8 +8,8 @@
         "store",
         "bot"
     ],
-    "repository": "https://github.com/MoTechYT/MT-FilesStoreBot",
-    "website": "https://github.com/MRK-YT",
+    "repository": "https://github.com/Aswinbots/MT-FilesStoreBot",
+    "website": "https://github.com/Aswinbots", 
     "success_url": "https://telegram.dog/Mo_Tech_YT",
     "env": {
         "API_ID": {
